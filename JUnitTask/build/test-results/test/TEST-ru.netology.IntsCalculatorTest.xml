@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.IntsCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-26T10:46:52" hostname="WIN-SV5SUV778K8" time="0.029">
+  <properties/>
+  <testcase name="pow()" classname="ru.netology.IntsCalculatorTest" time="0.02"/>
+  <testcase name="sum()" classname="ru.netology.IntsCalculatorTest" time="0.002"/>
+  <testcase name="mult()" classname="ru.netology.IntsCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
